@@ -1,5 +1,5 @@
 ## 🔷 ICT-COG_page 🔷
-This is a **HTML page** promoting ICT-COG.
+This is a **HTML page** promoting 'ICT-COG'.
 
 <br/>
 
